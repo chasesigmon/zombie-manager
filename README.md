@@ -21,6 +21,7 @@ First we need to install all dependencies.
 # App details
 
 - The portal should have a header and a create zombie button. Then below that should be a default set of 6 zombies loaded in that the server should ensure are there.
+- There should be hospital & school & warehouse icons displayed in their respective buttons as well as male or female zombie icons displayed next to the zombie names.
 
 Example:
 <img width="1509" alt="Screen Shot 2022-06-27 at 3 21 37 PM" src="https://user-images.githubusercontent.com/7799494/176020626-e48db0fe-8dc5-472f-842f-7f31d4e07144.png">
